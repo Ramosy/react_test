@@ -13,3 +13,10 @@
 1.建立.gitignore文件,忽略不上传的文件或者目录
 2.用webstorm的VCS一键上传(多人协作，请先VCS下载避免冲突)<br>
 3.使用命令行上传,这里不再叙述，请自行google或百度<br>
+####第四步:建立nodejs服务器，这里使用koa框架
+1.初始化package.json    npm init
+2.npm install koa@next
+3.启动koa参见https://github.com/koajs/koa/tree/v2.x
+####第五步:学习react基础
+1.学习阮一峰大神的教程https://github.com/ruanyf/react-demos
+2.每一个demo自己先仿照写，并且理解后融会贯通
