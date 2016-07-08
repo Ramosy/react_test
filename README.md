@@ -1,7 +1,7 @@
-# react_test
+# react_test实验笔记
 ##第一步:初始化git
-#####1.新建一个仓库(repositories)
-#####2.勾上Initialize this repository with a README复选框
+1.新建一个仓库(repositories)<br>
+2.勾上Initialize this repository with a README复选框<br>
 #####3.点击Create repository按钮
 ##第二步:拉取github上的代码到本地
 #####1.新建一个本地仓库(文件)
