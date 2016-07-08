@@ -20,3 +20,6 @@
 ####第五步:学习react基础
 1.学习阮一峰大神的教程https://github.com/ruanyf/react-demos
 2.每一个demo自己先仿照写，并且理解后融会贯通
+
+####通过官网学习，使用webpack+koa使用react
+1.react官网https://facebook.github.io/react/docs
