@@ -1,4 +1,3 @@
-# react_test实验笔记
 ###NO.1初始化项目,并建立远程仓库
 ####第一步:初始化git
 1.新建一个仓库(repositories)<br>
